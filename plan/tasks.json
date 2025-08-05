@@ -1,0 +1,104 @@
+[
+  {
+    "id": "task-1",
+    "agent": "frontend",
+    "description": "Set up the React project structure",
+    "file_path": "client/src/index.js"
+  },
+  {
+    "id": "task-2",
+    "agent": "frontend",
+    "description": "Create the main App component",
+    "file_path": "client/src/App.jsx"
+  },
+  {
+    "id": "task-3",
+    "agent": "frontend",
+    "description": "Create a TodoList component to display todos",
+    "file_path": "client/src/components/TodoList.jsx"
+  },
+  {
+    "id": "task-4",
+    "agent": "frontend",
+    "description": "Create a TodoItem component to display a single todo",
+    "file_path": "client/src/components/TodoItem.jsx"
+  },
+  {
+    "id": "task-5",
+    "agent": "frontend",
+    "description": "Create a form component to add new todos",
+    "file_path": "client/src/components/TodoForm.jsx"
+  },
+  {
+    "id": "task-6",
+    "agent": "frontend",
+    "description": "Implement state management for todos",
+    "file_path": "client/src/state/todoState.js"
+  },
+  {
+    "id": "task-7",
+    "agent": "frontend",
+    "description": "Style the application with CSS",
+    "file_path": "client/src/styles/App.css"
+  },
+  {
+    "id": "task-8",
+    "agent": "backend",
+    "description": "Set up the Express server",
+    "file_path": "server/server.js"
+  },
+  {
+    "id": "task-9",
+    "agent": "backend",
+    "description": "Create a route to handle fetching todos",
+    "file_path": "server/routes/todos.js"
+  },
+  {
+    "id": "task-10",
+    "agent": "backend",
+    "description": "Create a route to handle adding a new todo",
+    "file_path": "server/routes/todos.js"
+  },
+  {
+    "id": "task-11",
+    "agent": "backend",
+    "description": "Create a route to handle updating an existing todo",
+    "file_path": "server/routes/todos.js"
+  },
+  {
+    "id": "task-12",
+    "agent": "backend",
+    "description": "Create a route to handle deleting a todo",
+    "file_path": "server/routes/todos.js"
+  },
+  {
+    "id": "task-13",
+    "agent": "backend",
+    "description": "Set up a database connection for storing todos",
+    "file_path": "server/db/connection.js"
+  },
+  {
+    "id": "task-14",
+    "agent": "backend",
+    "description": "Create a Todo model for the database",
+    "file_path": "server/models/Todo.js"
+  },
+  {
+    "id": "task-15",
+    "agent": "devops",
+    "description": "Dockerize the React app",
+    "file_path": "client/Dockerfile"
+  },
+  {
+    "id": "task-16",
+    "agent": "devops",
+    "description": "Dockerize the Express server",
+    "file_path": "server/Dockerfile"
+  },
+  {
+    "id": "task-17",
+    "agent": "devops",
+    "description": "Create a docker-compose file to run React and Express services together",
+    "file_path": "docker-compose.yml"
+  }
+]
